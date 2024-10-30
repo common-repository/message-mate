@@ -1,0 +1,48 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+
+
+.mm_help_text{
+    padding-top:15px;
+}
+
+.blue{
+    color: #5aabbf;
+    text-decoration: none;
+}
+
+
+.orange{
+    color: #e7893d;
+    text-decoration: none;
+}
+
+a.trial_link{
+     text-decoration: none;
+}
+
+
+.wrap h2, h1{
+    text-align:center;
+}
+
+
+.mm_help_text p{
+    padding-bottom:10px;
+    font-size:16px;
+}
+
+.mm_id_settings p, .mm_id_non_editable p{
+    font-size:16px;
+    margin-bottom: 0;
+}
+
+
+.mm_welcome{
+    padding-bottom:35px !important;
+    font-style: italic;
+}
+
